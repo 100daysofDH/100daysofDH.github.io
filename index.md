@@ -6,7 +6,7 @@ Both newbies and seasoned DH people are welcome to join. Please promote this cha
 
 # The rules
 
-1. __Work on your habit for a certain amout of time every day for the next 100 days (for example one hour)__
+1. __Work on your habit for a certain amount of time every day for the next 100 days (for example one hour)__
 1. __Tweet your progress__ every day with the `#100DaysOfX` hashtag and the hashtag `#100DaysofDH`: make yourself accountable so you'll be less likely to stop mid-way. 
 1. Encourage/help at least 2 people in the challenge every day (via Twitter): grow your network.
 1. *Extra rule*: __Never miss two days in a row__ (or you likely won't stick with it). 
