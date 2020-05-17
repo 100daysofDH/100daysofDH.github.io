@@ -1,4 +1,4 @@
-# The `#100DaysofDH` Challenge
+# The #100DaysofDH Challenge
 
 Modelled after [`#100DaysofCode`](https://www.100daysofcode.com/), this is a [`100daysofX` challenge](https://www.100daysofx.com/). However, since this is not #100DaysofCode, you need not code if you don't want to. You can also use this as a writing prompt such as `#100DaysofDissertation`, as long as the general topic qualifies as Digital Humanities (in a broad sense). 
 
